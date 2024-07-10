@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.Headline{
+  font-weight: bold;
+  margin-bottom: -10px; 
+  margin-top: 20px;
+}
+
+.contacts{
+  margin-top: 20px;
+  
+}
+
+.design{
+  display: flex;
+  justify-content:space-between;
+  background-color: navy;
+  color: white;
+  padding-left: 4px;
+  padding-top: 6px;
+}
