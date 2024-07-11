@@ -3,7 +3,7 @@ import AddContact from './AddContact';
 import './App.css';
 import uuid4 from 'uuid4';
 
-// import TodoList from './TodoList';
+
 import Header from './Header';
 import ContactDetails from './ContactDetails';
 
